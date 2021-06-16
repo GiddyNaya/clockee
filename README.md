@@ -20,7 +20,7 @@ Implementation of the notification option is in progress but if you have an idea
 
 You can join the development by submitting a clean pull request.
 
-[Download APK sample here](/GiddyNaya/clockee/raw/main/sample/)
+[Download APK sample here](sample/)
 
 <a target="_blank" rel="noopener noreferrer" href="sample/clockee.jpg"><img src="sample/clockee.jpg" alt="Clockee App screenshot 1" title="Screenshot" style="max-width:100%;"></a>
 
