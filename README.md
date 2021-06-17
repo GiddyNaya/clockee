@@ -4,7 +4,7 @@ A minimalistic flutter clock and alarm app based on an idea from [@NoMad](https:
 
 ### Unique Features
 
-- Add alarm tone from Online Media Stream (supports mp3, wav, aac, hls, dash).
+- Play alarm tone from Online Media Stream (supports mp3, wav, aac, hls, dash).
 - Add multiple sounds per alarm which are played on random.
 - Simplistic snooze and dismiss actions
 - Progress volume option (Increments alarm sound slowly to highest volume while playing).
